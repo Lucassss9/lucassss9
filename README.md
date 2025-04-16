@@ -1,16 +1,33 @@
-## Hi there 👋
+### Olá! Me chamo Lucas! 👋
 
-<!--
-**Lucassss9/lucassss9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Backend em formação, focado em criar APIs eficientes utilizando C# e ASP.NET Core. Estou em constante aprendizado, buscando dominar boas práticas, estruturação de projetos e integração com banco de dados. Tenho interesse em evoluir para o desenvolvimento Fullstack no futuro.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Hard Skills**  
+**Linguagem:** C#  
+**Framework:** ASP.NET Core  
+**Banco de Dados:** SQL Server  
+**ORM:** Entity Framework Core  
+
+---
+
+📘 **Atualmente aprendendo**  
+- JavaScript  
+- DTOs, autenticação e validações  
+- Boas práticas e arquitetura de APIs  
+
+---
+
+🚀 **Próximos passos**  
+- Node.js  
+- TypeScript  
+
+---
+
+🌍 **Idiomas**  
+**Inglês:** Estudando diariamente com foco em leitura, escrita e conversação técnica  
+
+---
+
+🔎 Buscando evolução contínua e oportunidades para aplicar meus conhecimentos na prática!
