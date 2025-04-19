@@ -13,10 +13,8 @@ Sou desenvolvedor Backend em formação, focado em criar APIs eficientes utiliza
 ---
 
 📘 **Atualmente aprendendo**  
-- JavaScript  
-- DTOs, autenticação e validações  
-- Boas práticas e arquitetura de APIs  
-
+- JavaScript
+  
 ---
 
 🚀 **Próximos passos**  
