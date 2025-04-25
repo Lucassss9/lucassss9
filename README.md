@@ -5,7 +5,7 @@ Sou desenvolvedor Backend em formação, focado em criar APIs eficientes utiliza
 ---
 
 💻 **Hard Skills**  
-**Linguagem:** C#  
+**Linguagem:** C#, JavaScript  
 **Framework:** ASP.NET Core  
 **Banco de Dados:** SQL Server  
 **ORM:** Entity Framework Core  
@@ -13,8 +13,9 @@ Sou desenvolvedor Backend em formação, focado em criar APIs eficientes utiliza
 ---
 
 📘 **Atualmente aprendendo**  
-- JavaScript
-  
+- JavaScript (Apronfundando)
+- React
+
 ---
 
 🚀 **Próximos passos**  
