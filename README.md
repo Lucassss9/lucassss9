@@ -18,9 +18,4 @@ Sou desenvolvedor Backend em formação, focado em criar APIs eficientes utiliza
 
 ---
 
-🌍 **Idiomas**  
-**Inglês:** Estudando diariamente com foco em leitura, escrita e conversação técnica  
-
----
-
 🔎 Buscando evolução contínua e oportunidades para aplicar meus conhecimentos na prática!
