@@ -13,8 +13,7 @@ Sou desenvolvedor Backend em formação, focado em criar APIs eficientes utiliza
 ---
 
 📘 **Atualmente aprendendo**  
-- JavaScript (Apronfundando)
-- Node.js
+- Java
 
 ---
 
