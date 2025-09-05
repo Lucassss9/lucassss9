@@ -25,7 +25,6 @@ Essa experiência despertou ainda mais meu interesse por tecnologia e programaç
 ## 📘 Atualmente aprendendo  
 
 ![Java Avançado](https://img.shields.io/badge/Java%20Avançado-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Backend Best Practices](https://img.shields.io/badge/Backend%20Best%20Practices-2C2C2C?style=for-the-badge&logo=gradle&logoColor=white)  
 
 ---
 
