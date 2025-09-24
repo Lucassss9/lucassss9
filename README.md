@@ -20,7 +20,7 @@ Meu primeiro projeto prático foi no **TCC da ETEC**, onde desenvolvi um sistema
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <a href="https://github.com/SEU-USERNAME">
+  <a href="https://github.com/Lucassss9">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=7&theme=dracula"/>
   </a>
