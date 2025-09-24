@@ -7,8 +7,8 @@ Sou desenvolvedor Backend em formação, atualmente cursando Análise e Desenvol
 ### 💻 Hard Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,mysql,git" />
-    </a>
+    <img src="https://skillicons.dev/icons?i=java,js,cs,cpp,html,css" />
+  </a>
 </p>
 
 ---
@@ -30,6 +30,6 @@ Meu primeiro projeto prático foi no **TCC da ETEC**, onde desenvolvi um sistema
 
 ### 🔎 Contato
 <p align="left">
-  <a href="mailto:SEU-EMAIL" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:lucasgabriel09104@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-gabriel-0552962ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
