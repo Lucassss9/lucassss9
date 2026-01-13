@@ -1,33 +1,38 @@
-# 👋 Olá! Me chamo Lucas
+# 👋 Olá! Eu sou o Lucas Gabriel
 
-Sou desenvolvedor Backend em formação, atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho foco em construir soluções escaláveis e eficientes utilizando Java e boas práticas de desenvolvimento.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Backend em formação**, com foco em construir aplicações bem estruturadas e escaláveis usando **Java** e boas práticas de desenvolvimento.
 
----
-
-### 💻 Hard Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,cs,cpp,html,css" />
-  </a>
-</p>
+🎯 Atualmente meu foco é evoluir em:
+- **Java Backend**
+- **APIs REST**
+- **Orientação a Objetos**
+- **Clean Code e boas práticas**
+- **Estruturação de projetos com Spring Boot**
 
 ---
 
-### 🚀 Experiência Prática
-Meu primeiro projeto prático foi no **TCC da ETEC**, onde desenvolvi um sistema de **alerta de enchentes**, programando um **Arduino em C/C++** para enviar informações aos componentes conectados. Essa experiência despertou ainda mais meu interesse por tecnologia e programação.
+## ☕ Stack (Java Backend)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <a href="https://github.com/Lucassss9">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassss9&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</p>
+## 🧠 O que estou estudando agora
+
+- Java (POO, Collections, Exceptions)
+- Spring Boot (Controllers, Services, REST API)
+- DTOs e validações
+- Consumo de APIs / JSON
+- Boas práticas (SOLID, Clean Code)
 
 ---
 
-### 🔎 Contato
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-gabriel-0552962ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/lucas-gabriel-0552962ab" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
