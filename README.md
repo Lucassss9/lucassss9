@@ -21,16 +21,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Ba
 
 ---
 
-## 🧠 O que estou estudando agora
-
-- Java (POO, Collections, Exceptions)
-- Spring Boot (Controllers, Services, REST API)
-- DTOs e validações
-- Consumo de APIs / JSON
-- Boas práticas (SOLID, Clean Code)
-
----
-
 ## 📫 Contato
 
 <a href="https://www.linkedin.com/in/lucas-gabriel-0552962ab" target="_blank">
