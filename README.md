@@ -1,13 +1,7 @@
 # 👋 Olá! Eu sou o Lucas Gabriel
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Backend em formação**, com foco em construir aplicações bem estruturadas e escaláveis usando **Java** e boas práticas de desenvolvimento.
-
-🎯 Atualmente meu foco é evoluir em:
-- **Java Backend**
-- **APIs REST**
-- **Orientação a Objetos**
-- **Clean Code e boas práticas**
-- **Estruturação de projetos com Spring Boot**
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Backend Java em formação**.  
+Tenho foco em construir aplicações backend bem estruturadas, aplicando conceitos de **orientação a objetos**, **boas práticas de código** e **organização de projetos** com Java e Spring Boot.
 
 ---
 
@@ -18,6 +12,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor **Ba
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+
+---
+
+## 📌 O que você encontra aqui
+- Exercícios de lógica de programação em Java  
+- Projetos acadêmicos  
+- Projetos pessoais em desenvolvimento com Java e Spring Boot  
 
 ---
 
