@@ -5,13 +5,15 @@ Tenho foco em construir aplicações backend bem estruturadas, aplicando conceit
 
 ---
 
-## ☕ Stack (Java Backend)
+## ☕ Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
